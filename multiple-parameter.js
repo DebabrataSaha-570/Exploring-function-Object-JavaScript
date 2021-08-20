@@ -20,8 +20,6 @@ function multiplyTwoNumber(num1, num2) {
 var total = multiplyTwoNumber(5, 100)
 console.log('total after multiplication', total)
 
-
-
 // subtract two numbers 
 
 function subtractTwoNumbers(number1, number2) {
@@ -36,6 +34,5 @@ function QuotientTwoNumbers(number1, number2) {
     var total = number1 / number2
     return total;
 }
-
 
 console.log(QuotientTwoNumbers(9, 3))
